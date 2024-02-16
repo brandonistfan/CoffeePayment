@@ -1,0 +1,36 @@
+[ {
+  "name" : "Bob",
+  "coffeeType" : "Cappuccino",
+  "coffeePrice" : 3.5,
+  "totalPaid" : 23.0
+}, {
+  "name" : "Jeremy",
+  "coffeeType" : "Black Coffee",
+  "coffeePrice" : 2.5,
+  "totalPaid" : 0.0
+}, {
+  "name" : "Alice",
+  "coffeeType" : "Latte",
+  "coffeePrice" : 4.0,
+  "totalPaid" : 0.0
+}, {
+  "name" : "Samantha",
+  "coffeeType" : "Espresso",
+  "coffeePrice" : 2.0,
+  "totalPaid" : 0.0
+}, {
+  "name" : "Mike",
+  "coffeeType" : "Americano",
+  "coffeePrice" : 3.0,
+  "totalPaid" : 0.0
+}, {
+  "name" : "Rachel",
+  "coffeeType" : "Mocha",
+  "coffeePrice" : 4.5,
+  "totalPaid" : 0.0
+}, {
+  "name" : "Tom",
+  "coffeeType" : "Iced Coffee",
+  "coffeePrice" : 3.5,
+  "totalPaid" : 0.0
+} ]
