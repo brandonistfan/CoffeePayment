@@ -18,8 +18,16 @@ To install CoffeePayment, please follow these steps:
 
 ## Usage
 
-Running CoffeePayment is straightforward. Open a terminal or command prompt, navigate to the folder containing CoffeePayment-1.0-SNAPSHOT.jar, and run:
-java -jar CoffeePayment-1.0-SNAPSHOT.jar
+Running CoffeePayment is straightforward. Open a terminal or command prompt, use the Gradle Wrapper to build the project.
+- On Unix operating systems, run:
+  - ./gradlew build
+- On Windows, run:
+  - gradlew.bat build
+
+Then, navigate to the folder containing CoffeePayment-1.0-SNAPSHOT.jar, and run:  
+
+- java -jar CoffeePayment-1.0-SNAPSHOT.jar  
+
 The application will guide you through the process, from selecting beverages to determining who should pay for the day's coffee order, ensuring a fair rotation based on the cost of the beverages.
 
 ## Assumptions
