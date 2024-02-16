@@ -25,7 +25,7 @@ Running CoffeePayment is straightforward. Open a terminal or command prompt, use
 - On Windows, run:
   - .\gradlew.bat build
 
-Then, navigate to the folder containing CoffeePayment-1.0-SNAPSHOT.jar, and run:  
+Then, navigate to the folder (\build\libs) containing CoffeePayment-1.0-SNAPSHOT.jar, and run:  
 
 - java -jar CoffeePayment-1.0-SNAPSHOT.jar  
 
