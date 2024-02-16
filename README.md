@@ -12,7 +12,8 @@ The core goal is to remove the mental burden from the employees so they can focu
 ## Installation 
 To install CoffeePayment, please follow these steps:
 
-- Ensure Java is installed on your system. CoffeePayment requires Java 21.0.2 or newer. Additonally, it requires Gradle 8.6 or newer. Verify your Java version by executing java -version in your command prompt or terminal.
+- Ensure Java is installed on your system. CoffeePayment requires Java 21.0.2 or newer. Additonally, it requires Gradle 8.6 or newer. Verify your Java version by executing
+  java -version in your command prompt or terminal.
 - Download the CoffeePayment-1.0-SNAPSHOT.jar file from the project's release section.
 - Save the JAR file in your preferred directory.
 
